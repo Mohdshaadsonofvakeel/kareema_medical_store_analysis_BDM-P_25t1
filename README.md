@@ -111,6 +111,25 @@ seaborn>=0.11.0        # Statistical visualizations
 ---
 
 ## 📈 Key Visualizations
+### 📊 Key Visualizations
+
+#### 1. **Pareto Analysis: Revenue Distribution**
+![Pareto Analysis](https://github.com/Mohdshaadsonofvakeel/kareema_medical_store_analysis_BDM-P_25t1/raw/main/charts/pareto_analysis.png)
+
+#### 2. **Stockout Risk Heatmap**
+![Stockout Heatmap](https://github.com/Mohdshaadsonofvakeel/kareema_medical_store_analysis_BDM-P_25t1/raw/main/charts/stockout_heatmap.png)
+
+#### 3. **ARIMA Forecast**
+![ARIMA Forecast](https://github.com/Mohdshaadsonofvakeel/kareema_medical_store_analysis_BDM-P_25t1/raw/main/charts/arima_forecast.png)
+
+#### 4. **ABC Analysis Detailed**
+![ABC Analysis](https://github.com/Mohdshaadsonofvakeel/kareema_medical_store_analysis_BDM-P_25t1/raw/main/charts/abc_analysis_detailed.png)
+
+#### 5. **Class Metrics Comparison**
+![Class Metrics](https://github.com/Mohdshaadsonofvakeel/kareema_medical_store_analysis_BDM-P_25t1/raw/main/charts/class_metrics_comparison.png)
+
+#### 6. **Medicine Price Analysis**
+![Medicine Price Analysis](https://github.com/Mohdshaadsonofvakeel/kareema_medical_store_analysis_BDM-P_25t1/raw/main/charts/medicine_price_analysys.png)
 
 ### 1. Pareto Analysis: Revenue Distribution
 
